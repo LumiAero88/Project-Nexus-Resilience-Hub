@@ -18,7 +18,7 @@ As the Project Lead, my primary focus was not coding, but bridging the gap betwe
 
 ## 🤝 Project Structure
 
-Project Nexus operates with a cross-functional team of 15 student experts.
+Project Nexus operates with a cross-functional team of 16 student experts.
 
 | Unit | Lead | Focus Area |
 | :--- | :--- | :--- |
